@@ -22,4 +22,5 @@ There is more detail in <https://www.playframework.com/documentation/latest/Thre
 
 
 ======================================
+
 Extend the current application to have "author" feature in their blog posts and also added new endpoint which allow user to displayed all the posts belong to a particular author by doing a GET:localhost:9000/v1/posts/author/SomeAuthor
